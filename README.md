@@ -2,7 +2,7 @@
 
 A simple binary image classification model to detect whether an image contains a **bird** or **not** using FastAI and ResNet18.
 
-## 🚀 Features
+## Features
 
 - Clean dataset with auto-image verification and resizing.
 - Trained using FastAI's `vision_learner` with `resnet18`.
@@ -10,7 +10,7 @@ A simple binary image classification model to detect whether an image contains a
 - Minimal and reproducible codebase (Colab ready).
 - Model exported for easy reuse and inference (`.pkl` file).
 
-## 🧠 Model
+## Model
 
 - Architecture: `ResNet18`
 - Framework: [FastAI](https://docs.fast.ai/)
